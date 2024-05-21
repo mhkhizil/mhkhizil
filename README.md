@@ -32,8 +32,7 @@
 <a href="https://nextjs.org/docs" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728805/ease-prof/programming%20languages/next-js_dx85pb.svg" height="40" width="40" alt=NextJs/>
 <a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
 <a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
-
-<br/>
+<h1>Statistics</h1>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=dark"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark"/>
