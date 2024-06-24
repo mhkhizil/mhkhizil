@@ -22,9 +22,8 @@
 <a href="https://www.php.net/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" width="40" alt=PHP/>
 <a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
 <a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/typescript_yy0l4p.svg" height="40" width="40" alt=Typescript/>
-<a href="https://nestjs.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/nestjs_oqlsrf.svg" height="40" width="40" alt="NestJS"/>
-</a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+
 <a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
@@ -40,10 +39,3 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark"/>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
