@@ -69,6 +69,4 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-https://github-readme-activity-graph.cyclic.app/graph?username=mhkhizil&theme=github-compact
-https://komarev.com/ghpvc/?username=mhkhizil&label=PROFILE+VIEWS&color=0e75b6
-https://img.shields.io/badge/-Full%20Stack%20Developer-blue
+
