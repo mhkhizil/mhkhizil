@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mhkhizil&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mhkhizil" width="100%"/>
 </p>
 
 ---
