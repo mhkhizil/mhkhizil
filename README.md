@@ -95,4 +95,11 @@
 ![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
 
 ---
-
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
