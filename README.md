@@ -33,6 +33,7 @@
 ---
 
 ### 🛠️ Skills
+
 #### Programming Languages
 <p>
   <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" alt="JavaScript"/>
@@ -53,6 +54,15 @@
   <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728805/ease-prof/programming%20languages/next-js_dx85pb.svg" height="40" alt="Next.js"/>
 </p>
 
+#### ⚙️ Backend
+<p>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728892/ease-prof/programming%20languages/nestjs-icon_rgylco.svg" height="40" alt="NestJS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mysql-icon_mk8acg.svg" height="40" alt="MySQL"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/postgresql-icon_hbcqkg.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mongodb-icon_lvtrhy.svg" height="40" alt="MongoDB"/>
+</p>
+
 #### Tools
 <p>
   <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" alt="Postman"/>
@@ -69,4 +79,3 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-
