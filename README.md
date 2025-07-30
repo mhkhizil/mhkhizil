@@ -89,7 +89,7 @@
 
 ---
 
-### 🧠 Fun Terminal Animation (Just for fun 😎)
+### 🧠 Just for fun 😎
 
 ![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
 
