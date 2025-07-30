@@ -1,7 +1,14 @@
 <!-- Hero Section with Typing Animation -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hola, I'm Thurein Zaw
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
+  <span style="color:#36BCF7; font-weight:bold;">Hola, I'm Thurein Zaw</span>
 </h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=🚀+Full-stack+Web+Developer;🌱+Lifelong+Learner;⚡+Problem+Solver;❤️+Open+Source+Contributor" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=🚀+Full-stack+Web+Developer;🌱+Lifelong+Learner;⚡+Problem+Solver;❤️+Open+Source+Contributor" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" target="_blank">
