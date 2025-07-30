@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mhkhizil&theme=react-dark&hide_border=true" width="100%"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=tokyonight" />width="100%"/>
 </p>
 
 
