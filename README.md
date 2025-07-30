@@ -1,9 +1,11 @@
-<h1 align="center">👋 Hola, I'm Thurein Zaw</h1>
-<h3 align="center">🚀 Full Stack Web Developer from Myanmar</h3>
+<!-- Hero Section with Typing Animation -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hola, I'm Thurein Zaw
+</h1>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mhkhizil">
-    <img src="https://github-profile-trophy.vercel.app/?username=mhkhizil&theme=darkhub&margin-w=15&margin-h=15&no-bg=true" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" />
   </a>
 </p>
 
@@ -16,66 +18,81 @@
     `Next.js + TypeScript + FastAPI`
   - **Front-end Developer** @ *Potato.rocket*  
     `Next.js + TypeScript`
-- 🔗 Visit my [**Portfolio Website**](https://thurein-zaw-full-stac-k-web-developer-portfolio.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR05sRaEHSppyroWRYHrpJTw2-c5HBCNULtyG2fl9x1p6fbWsmR4pcqzMvg_aem_ASEm16_Z_gGk5FZ3C9Nt9dZ8KWWQJsgOe4VfccWBM_hWD52hEbuG3FyGofGuKfuRDWxs_cxXc_73gdaBpOOHhhCe)  
-- 📧 Contact me at: [mhkhizilthurainzaw@gmail.com](mailto:mhkhizilthurainzaw@gmail.com)
+- 🔗 Visit my [**Portfolio Website**](https://thurein-zaw-full-stac-k-web-developer-portfolio.vercel.app/)
+- 📧 Email me at: [mhkhizilthurainzaw@gmail.com](mailto:mhkhizilthurainzaw@gmail.com)
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/mhkhizil" target="_blank"><img alt="GitHub" src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40"/></a>
-  <a href="https://www.linkedin.com/in/thurein-zaw-62ab73291" target="_blank"><img alt="LinkedIn" src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40"/></a>
-  <a href="https://discord.com/users/thureinzaw" target="_blank"><img alt="Discord" src="https://res.cloudinary.com/dreamlist/image/upload/v1676730718/ease-prof/social/discord-icon-svgrepo-com_wuyhta.svg" height="40"/></a>
-  <a href="https://www.facebook.com/khizil/" target="_blank"><img alt="Facebook" src="https://res.cloudinary.com/dreamlist/image/upload/v1676730776/ease-prof/social/facebook-tile_ohluug.svg" height="40"/></a>
-  <a href="https://stackoverflow.com/users/18001133/mh-khizil" target="_blank"><img alt="StackOverflow" src="https://res.cloudinary.com/dreamlist/image/upload/v1676731089/ease-prof/social/stackoverflow-tile_h07xxl.svg" height="40"/></a>
+<p align="center">
+  <a href="https://github.com/mhkhizil" target="_blank"><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40"/></a>
+  <a href="https://www.linkedin.com/in/thurein-zaw-62ab73291" target="_blank"><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40"/></a>
+  <a href="https://discord.com/users/thureinzaw" target="_blank"><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730718/ease-prof/social/discord-icon-svgrepo-com_wuyhta.svg" height="40"/></a>
+  <a href="https://www.facebook.com/khizil/" target="_blank"><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730776/ease-prof/social/facebook-tile_ohluug.svg" height="40"/></a>
+  <a href="https://stackoverflow.com/users/18001133/mh-khizil" target="_blank"><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676731089/ease-prof/social/stackoverflow-tile_h07xxl.svg" height="40"/></a>
 </p>
 
 ---
 
-### 🛠️ Skills
+### 💻 Tech Stack
 
-#### Programming Languages
+#### 👨‍💻 Languages
 <p>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" alt="JavaScript"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" alt="PHP"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" alt="Python"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/typescript_yy0l4p.svg" height="40" alt="TypeScript"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" alt="Java"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/typescript_yy0l4p.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40"/>
 </p>
 
-#### Front-End
+#### 🧑‍🎨 Frontend
 <p>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" alt="HTML5"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" alt="CSS3"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728717/ease-prof/programming%20languages/sass-1_e2j4kh.svg" height="40" alt="Sass"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728764/ease-prof/programming%20languages/tailwindcss_ypanrz.svg" height="40" alt="TailwindCSS"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609812/ease-prof/frameworks/boostrap_tlv0am.svg" height="40" alt="Bootstrap"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/react_cbllza.svg" height="40" alt="React"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728805/ease-prof/programming%20languages/next-js_dx85pb.svg" height="40" alt="Next.js"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728717/ease-prof/programming%20languages/sass-1_e2j4kh.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728764/ease-prof/programming%20languages/tailwindcss_ypanrz.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609812/ease-prof/frameworks/boostrap_tlv0am.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/react_cbllza.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728805/ease-prof/programming%20languages/next-js_dx85pb.svg" height="40"/>
 </p>
 
-#### ⚙️ Backend
+#### 🔧 Backend
 <p>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728892/ease-prof/programming%20languages/nestjs-icon_rgylco.svg" height="40" alt="NestJS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mysql-icon_mk8acg.svg" height="40" alt="MySQL"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/postgresql-icon_hbcqkg.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mongodb-icon_lvtrhy.svg" height="40" alt="MongoDB"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728892/ease-prof/programming%20languages/nestjs-icon_rgylco.svg" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mysql-icon_mk8acg.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/postgresql-icon_hbcqkg.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mongodb-icon_lvtrhy.svg" height="40"/>
 </p>
 
-#### Tools
+#### 🧰 Tools
 <p>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" alt="Postman"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" alt="Git"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40"/>
+  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mhkhizil&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 🧠 Fun Terminal Animation (Just for fun 😎)
+
+![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
+
+---
+
