@@ -105,10 +105,13 @@
 ![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
 
 ---
-<div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mhkhizil&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+## 👀 Visitor Count
+
+![Visitor Count](https://count.getloli.com/get/@mhkhizil.github.profile?theme=rule34)
+
+
+
 ---
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake-dark.svg">
