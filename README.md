@@ -106,7 +106,7 @@
 
 ---
 <div align="center">
-![Visitor Count](https://count.getloli.com/get/@mhkhizil.github.profile?theme=rule34)
+![Visitors](https://count.getloli.com/get/@mhkhizil.github.profile?theme=miku)
 </div>
 ---
 <picture>
