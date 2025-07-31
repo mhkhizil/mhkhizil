@@ -106,7 +106,8 @@
 
 ---
 <div align="center">
-![Visitors](https://count.getloli.com/get/@mhkhizil.github.profile?theme=miku)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mhkhizil&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 ---
 <picture>
