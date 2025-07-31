@@ -106,7 +106,7 @@
 
 ---
 <div align="center">
- ![Static Badge](https://img.shields.io/badge/Oracle-Database-brightgreen?logo=oracle)
+![Visitor Count](https://count.getloli.com/get/@mhkhizil.github.profile?theme=rule34)
 </div>
 ---
 <picture>
