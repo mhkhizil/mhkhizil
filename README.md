@@ -64,13 +64,12 @@
 </p>
 
 #### 🔧 Backend
-<p>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728892/ease-prof/programming%20languages/nestjs-icon_rgylco.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mysql-icon_mk8acg.svg" height="40"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/postgresql-icon_hbcqkg.svg" height="40"/>
-  <img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728991/ease-prof/databases/mongodb-icon_lvtrhy.svg" height="40"/>
-</p>
+![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg)
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+
 
 #### 🧰 Tools
 <p>
