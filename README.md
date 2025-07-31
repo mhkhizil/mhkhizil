@@ -105,6 +105,10 @@
 ![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/md-hasan-monsur-banner.png" alt="GitHub Banner showcasing a professional profile" width="100%">
+</div>
+---
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake.svg">
