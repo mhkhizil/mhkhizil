@@ -1,15 +1,19 @@
-# <!-- Hero Section with Typing Animation -->
+<!-- Hero Section with Typing Animation -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
   <span style="color:#36BCF7; font-weight:bold;">Hola, I'm Thurein Zaw</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=🚀+Full-stack+Web+Developer;🌱+Lifelong+Learner;⚡+Problem+Solver;❤️+Open+Source+Contributor" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=🚀+Full-stack+Web+Developer;🌱+Lifelong+Learner;⚡+Problem+Solver;❤️+Open+Source+Contributor" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=🚀+Full-stack+Web+Developer;🌱+Lifelong+Learner;⚡+Problem+Solver;❤️+Open+Source+Contributor" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver+%F0%9F%92%A1" />
+  </a>
 </p>
 
 ---
@@ -18,9 +22,9 @@
 - 🇲🇲 I'm based in **Myanmar**
 - 💼 Currently working remotely:
   - **Full-stack Developer** @ *Grummen Holdings*  
-    `Next.js + TypeScript + FastAPI`
+    Next.js + TypeScript + FastAPI
   - **Front-end Developer** @ *Potato.rocket*  
-    `Next.js + TypeScript`
+    Next.js + TypeScript
 - 🔗 Visit my [**Portfolio Website**](https://thurein-zaw-full-stac-k-web-developer-portfolio.vercel.app/)
 - 📧 Email me at: [mhkhizilthurainzaw@gmail.com](mailto:mhkhizilthurainzaw@gmail.com)
 
@@ -61,12 +65,15 @@
 
 #### 🔧 Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" />
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </p>
+
+
 
 #### 🧰 Tools
 <p>
@@ -79,48 +86,38 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhkhizil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=dark&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mhkhizil&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark&hide_border=true" width="100%"/>
 </p>
+
+
+
+
 
 ---
 
+
+
 ### 🧠 Just for fun 😎
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️" alt="Terminal Typing Animation"/>
-</p>
+![Terminal Typing Gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=35F7AC&width=435&lines=export+const+dev=Thurein+Zaw;fullStack()+openToWork();alwaysLearning()+❤️)
 
 ---
 
 ## 👀 Visitor Count
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@mhkhizil.github.profile?theme=rule34" alt="Visitor Count"/>
-</p>
+![Visitor Count](https://count.getloli.com/get/@mhkhizil.github.profile?theme=rule34)
+
+
 
 ---
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhkhizil/mhkhizil/output/github-contribution-grid-snake.svg">
+</picture>
