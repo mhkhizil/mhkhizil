@@ -84,6 +84,7 @@
 ---
 
 
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -95,9 +96,36 @@
   <img
     src="./profile/top-langs.svg"
     height="180"
-    alt="Top Programming Languages"
+    alt="Most Used Languages"
   />
 </p>
+
+<p align="center">
+  <img
+    src="./profile/languages-donut.svg"
+    width="60%"
+    alt="Language Distribution"
+  />
+</p>
+
+### 🚀 Featured Open Source Project
+
+<p align="center">
+  <img
+    src="./profile/printer-bridge.svg"
+    width="80%"
+    alt="Printer Bridge Project"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhkhizil/printer-bridge-for-pos-median-compatible">
+    View Project on GitHub →
+  </a>
+</p>
+
+---
+
 
 ---
 
