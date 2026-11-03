@@ -83,48 +83,43 @@
 
 ---
 
-
-
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Overview
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./profile/languages-donut.svg"
-    width="60%"
-    alt="Language Distribution"
-  />
-</p>
-
-### 🚀 Featured Open Source Project
-
-<p align="center">
-  <img
-    src="./profile/printer-bridge.svg"
-    width="80%"
-    alt="Printer Bridge Project"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mhkhizil/printer-bridge-for-pos-median-compatible">
-    View Project on GitHub →
-  </a>
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 </p>
 
 ---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhkhizil&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🚀 Featured Project
+
+<p align="center">
+  <img src="./profile/printer-bridge.svg" width="80%" alt="Printer Bridge"/>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg">
+    <img src="./profile/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  </picture>
+</p>
+
+---
+
 
 
 ---
