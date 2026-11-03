@@ -83,24 +83,23 @@
 
 ---
 
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhkhizil&show_icons=true&theme=dark&hide_border=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkhizil&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Programming Languages"
+  />
 </p>
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkhizil&layout=compact&theme=dark&hide_border=true" width="100%"/>
-</p>
-
-
-
-
 
 ---
-
 
 
 ### 🧠 Just for fun 😎
